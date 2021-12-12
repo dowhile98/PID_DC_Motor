@@ -1,3 +1,0 @@
-config load "D:\UNAC\CICLO-9\CONTROL AVANZADO\CODIGO\MATLAB\ControlPID\ControlPID.ioc"
-project generate ui
-exit wait
